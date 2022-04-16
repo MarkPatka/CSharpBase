@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<gameinfo>
+	<game name="witcher">
+		<resolution>1920x1080</resolution>
+		<gamma>91</gamma>
+		<fps>60</fps>
+		<vsinch>false</vsinch>
+	</game>
+</gameinfo>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<gameinfo>
+	<game name="Bioshock">
+		<resolution>640x480</resolution>
+		<gamma>100</gamma>
+		<fps>120</fps>
+		<vsinch>true</vsinch>
+	</game>
+</gameinfo>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<gameinfo>
+	<game name="Warhammer">
+			<resolution>1280x720</resolution>
+			<gamma>80</gamma>
+			<fps>30</fps>
+			<vsinch>false</vsinch>
+	</game>
+</gameinfo>
