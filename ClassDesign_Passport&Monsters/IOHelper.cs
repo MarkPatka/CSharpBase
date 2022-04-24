@@ -30,7 +30,6 @@ namespace ClassDesign
         }
 
         // Возвращает номер (string) элемента из списка, если последний был в нем найден
-        // P.S. Я не уверен, что правильно понял суть метода, указанного в наименовании в вашем примере: * int TextMenu(string[] menu_items);
         public static int TextMenu(string[] menu_items)
         {
             Console.WriteLine("Номер какого элемента из списка желаете получить?");
