@@ -15,7 +15,7 @@ namespace Class_Design_Automobile
 
         public static string[] GetEnumText(Enum element)
         {
-            string path = @"D:\Study\Workflow\С#\homeworks\Unit2\Class_Design_Automobile\Rusifikator.txt";
+            string path = @"";
 
             using (StreamReader fstream = new(path))
             {
